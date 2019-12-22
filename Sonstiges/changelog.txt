@@ -1,0 +1,29 @@
+changelog
+homepage Schmitt Schafft&apos;s
+
+20.10.18
+
+Generell:
+  &#45;> Schafft´s durch schafft&apos;s ersetzen (´ ersetzen durch &apos;)
+
+&#45; Anfahrt:
+  &#45;> Umlaute durch codes ersetzt
+  &#45;> nicht funktionnierendes Anfahrts Berechnungs Formular auskommentiert
+  &#45;> Conrad Electronic > Pink Deko
+  &#45;> Anfahrt per Bus/Bahn vom HBF erg&auml;nzt
+
+&#45; Ansprechpartner:
+  &#45;> Umlaute usw durch codes ersetzt
+&#45;> Fotos aktualisieren!
+
+Kontaktformular in Datenschutz angesprochen: existiert?
+
+Datenschutz: codes aktualisiert, fett entfernt
+
+Start komplett aktualisiert
+
+Wir suchen &uuml;berarbeitet mit fett/normal
+
+warum: komplett &uuml;berarbeitet/listen neu organisiert
+
+vorteile: fett entfernt, code

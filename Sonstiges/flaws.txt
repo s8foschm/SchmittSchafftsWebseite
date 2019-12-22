@@ -1,0 +1,29 @@
+google maps link funktionniert (neueres Anfahrt)
+anfahrt option mit adresse eingeben nicht
+saarbr&uuml;cker stadtplan nicht
+fotos sehr veraltet
+seite "warum zeitarbeit": aufz&auml;hlung mit * h&auml;sslich
+&uuml;berall fett gedruckt &#45;> etwas &uuml;berrumpelnd, nicht aufger&auml;umt (auf index ge&auml;ndert)
+berufsliste aktuell? (arbeitgeber&#45;info + wir suchen)
+evtl titel &auml;ndern von arbeitgeber&#45;info in wir bieten, bzw neue Seite mit "wir bieten"
+&uuml;berall ´ anstatt &apos; bei schafft&apos;s
+Datenschutz: bei 4. alles gro&szlig;buchstaben, titel nicht einheitlich
+Bild auf Startseite unsch&ouml;n
+Start: Personaldiestleister: Neptun, noch aktuell, noch beteiligt?
+
+navig
+Start: done
+Notruf&#45;Telefon: i.O.
+Warum Zeitarbeit?: done
+Vorteile der Zeitarbeit: done
+Unsere Leistungen: done
+Arbeitgeber&#45;Info: nur codes und fett
+Wir suchen: done
+Ansprechpartner: Fotos
+Kontakt: i.O.
+Anfahrt: done
+Impressum: todo
+Datenschutz: partly
+
+
+unsere Leistungen: umbauen mit vern&uuml;nftigen verschachtelten Listen
