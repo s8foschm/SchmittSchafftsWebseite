@@ -1,4 +1,29 @@
 <html>
+
+<head><script type="text/javascript"> <!--
+    function UnCryptMailto( s )
+    {
+        var n = 0;
+        var r = "";
+        for( var i = 0; i < s.length; i++)
+        {
+            n = s.charCodeAt( i );
+            if( n >= 8364 )
+            {
+                n = 128;
+            }
+            r += String.fromCharCode( n - 1 );
+        }
+        return r;
+    }
+
+    function linkTo_UnCryptMailto( s )
+    {
+        location.href=UnCryptMailto( s );
+    }
+    // --> </script>
+</head>
+
 <body background="images/logo.gif" link==#000 vlink==#000 alink==#000>
 <b>
 <table border="0" width="94%" cellpadding="0" cellspacing="0" height="123">
@@ -22,7 +47,7 @@ Fritz&#45;Dobisch&#45;Str. 10a<br>
 <p>
 Tel.: 0681 / 93 67 60<br>
 Fax:  0681 / 93 67 636<br>
-eMail:  <a href="mailto:mail@schmittpersonal.de">mail@schmittpersonal.de</a> oder <a href="mailto:mail@schmitt&#45;schaffts.de">mail@schmitt&#45;schaffts.de</a>
+eMail: <a href="javascript:linkTo_UnCryptMailto('nbjmup;nbjmAtdinjuu.tdibggut/ef');">mail [at] schmitt-schaffts [dot] de</a> oder <a href="javascript:linkTo_UnCryptMailto('nbjmup;nbjmAtdinjuuqfstpobm/ef');">mail [at] schmittpersonal [dot] de</a>
 </p>
 <p>
 Amtsgericht Saarbr&uuml;cken, HRB 12783<br>
